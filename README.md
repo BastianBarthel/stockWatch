@@ -4,19 +4,20 @@ A Python script that checks the last two closing courses of a stock and sends sm
 
 ## Instructions:
 
-Register to get the following free API keys:
-https://www.alphavantage.co/
-https://newsapi.org/
-Get a free Twilio account:
-https://www.twilio.com/
+Register to get the following free API keys:<br>
+https://www.alphavantage.co/<br>
+https://newsapi.org/<br>
 
-Set the following environment variables:
-STOCK_API_KEY (Alpha Vantage key)
-NEWS_API_KEY (News API key)
-ACCOUNT_SID (Twilio account sid)
-AUTH_TOKEN (Twilio auth token)
-PHONE_NUMBER_FROM (Twilio phone number)
-PHONE_NUMBER_TO (Your phone number)
+Get a free Twilio account:<br>
+https://www.twilio.com/<br>
 
-How to get Twilio to work on free PythonAnywhere accounts:
+Set the following environment variables:<br>
+STOCK_API_KEY (Alpha Vantage key)<br>
+NEWS_API_KEY (News API key)<br>
+ACCOUNT_SID (Twilio account sid)<br>
+AUTH_TOKEN (Twilio auth token)<br>
+PHONE_NUMBER_FROM (Twilio phone number)<br>
+PHONE_NUMBER_TO (Your phone number)<br>
+
+How to get Twilio to work on free PythonAnywhere accounts:<br>
 https://help.pythonanywhere.com/pages/TwilioBehindTheProxy/
